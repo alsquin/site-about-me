@@ -12,9 +12,10 @@ header {
 }
 
 .header_left {
+    background-color: plum;
     width: 65%;
     height: 100%;
-    font-size: 3vw;
+    font-size: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -34,6 +35,7 @@ header {
 
 
 .header_right {
+    background-color: plum;
     width: 35%;
     height: 100%;
     display: flex;
